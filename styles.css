@@ -1,0 +1,42 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  width: 800px;
+  max-width: 90%;
+  background-color: #FCF6EE;
+}
+
+h1 {
+  text-align: center;
+  color: #BD1E1E;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+a {
+  color: #17255A;
+}
+
+img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+h2 {
+  margin-top: 2em;
+  color: #221E1B;
+}
+
+ul, ol {
+  margin-left: 2em;
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+}
